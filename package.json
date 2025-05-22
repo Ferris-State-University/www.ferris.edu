@@ -1,0 +1,22 @@
+{
+  "name": "www.ferris.edu",
+  "version": "1.0.1",
+  "description": "Typescript for our JS modules",
+  "scripts": {
+    "tsc": "npx tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ferris-State-University/www.ferris.edu.git"
+  },
+  "keywords": [],
+  "author": "Ferris State University",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ferris-State-University/www.ferris.edu/issues"
+  },
+  "homepage": "https://github.com/Ferris-State-University/www.ferris.edu#readme",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
